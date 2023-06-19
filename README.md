@@ -1,1 +1,1 @@
-
+A project built by me which features a beginner friendly Launchpad-style drum/bass machine. Good for mixing/performing simple BGMs. Built this project primarily to further my understanding of React and interacting with sound APIs
